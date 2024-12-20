@@ -1,5 +1,5 @@
-BitTorrent System
-
+**BitTorrent System
+**
 Overview
 
 This project implements a simplified BitTorrent system that mimics the behavior of trackers, peers, and file sharing using UDP sockets. It supports functionalities like peer registration, file seeding, downloading, scraping, and tracker management.
