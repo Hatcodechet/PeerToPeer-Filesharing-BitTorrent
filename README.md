@@ -1,41 +1,38 @@
-**BitTorrent System
-**
-Overview
+# BitTorrent System
 
+## Overview
 This project implements a simplified BitTorrent system that mimics the behavior of trackers, peers, and file sharing using UDP sockets. It supports functionalities like peer registration, file seeding, downloading, scraping, and tracker management.
 
-Features
+### Tracker
 
-Tracker
+- Maintains a list of files and their associated peers.
 
-Maintains a list of files and their associated peers.
+- Handles requests from peers, including registration, file seeding, downloading, and scraping.
 
-Handles requests from peers, including registration, file seeding, downloading, and scraping.
+- Tracks alive peers and removes inactive ones.
 
-Tracks alive peers and removes inactive ones.
+- Stores metadata in JSON files for persistence.
 
-Stores metadata in JSON files for persistence.
+### Peer
 
-Peer
+- Allows peers to register and interact with the tracker.
 
-Allows peers to register and interact with the tracker.
+- Supports file seeding, downloading, and chunk-based file sharing.
 
-Supports file seeding, downloading, and chunk-based file sharing.
+- Enables parallel downloading of file chunks from multiple peers.
 
-Enables parallel downloading of file chunks from multiple peers.
+- Provides functionality to scrape file information like the number of seeders and leechers.
 
-Provides functionality to scrape file information like the number of seeders and leechers.
+### Configurations
 
-Configurations
+- Configurable constants (e.g., chunk size, tracker address, buffer size) defined in the configs module.
 
-Configurable constants (e.g., chunk size, tracker address, buffer size) defined in the configs module.
+### Installation
 
-Installation
+#### Clone the repository:
 
-Clone the repository:
-
-git clone https://github.com/Hatcodechet/PeerToPeer-Filesharing-BitTorrent.git
-cd PeerToPeer-Filesharing-BitTorrent
+``` git clone https://github.com/Hatcodechet/PeerToPeer-Filesharing-BitTorrent.git
+    cd PeerToPeer-Filesharing-BitTorrent ```
 
 Install dependencies:
 
