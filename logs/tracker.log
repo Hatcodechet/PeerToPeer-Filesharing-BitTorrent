@@ -1,0 +1,990 @@
+Tracker started at ['localhost', 8080]
+===================================================
+[14:37:44] Alive Peer(s): [1] and Dead peer(s) [].
+[14:38:06] Alive Peer(s): [1, 2, 3] and Dead peer(s) [].
+[14:38:26] Peer 1 registered as owner of file cn.pdf
+[14:38:28] Alive Peer(s): [1, 2, 3] and Dead peer(s) [].
+[14:38:31] Peer 2 registered as owner of file cn.pdf
+[14:38:50] Alive Peer(s): [1, 2, 3] and Dead peer(s) [].
+[14:38:57] Peer 3 requested file cn.pdf
+[14:38:57] Peer 3 requested file cn.pdf
+[14:38:57] Peer 3 registered as owner of file cn.pdf
+[14:39:12] Alive Peer(s): [1, 2, 3] and Dead peer(s) [].
+[14:39:17] Peer 1 exited the torrent intentionally.
+[14:39:34] Alive Peer(s): [2, 3] and Dead peer(s) [].
+[14:39:56] Alive Peer(s): [] and Dead peer(s) [2].
+[14:40:18] Alive Peer(s): [3] and Dead peer(s) [].
+[14:40:40] Alive Peer(s): [] and Dead peer(s) [3].[15:20:23] ========================================
+Tracker started at ['localhost', 8080]
+===================================================
+[15:21:45] Alive Peer(s): [1] and Dead peer(s) [].
+[15:22:07] Alive Peer(s): [1, 2, 50] and Dead peer(s) [].
+[15:22:29] Alive Peer(s): [1, 2, 50] and Dead peer(s) [].
+[15:22:31] Peer 1 registered as owner of file cn.pdf
+[15:22:35] Peer 2 registered as owner of file cn.pdf
+[15:22:42] Peer 50 requested file cn.pdf
+[15:22:42] Peer 50 requested file cn.pdf
+[15:22:42] Peer 50 registered as owner of file cn.pdf
+[15:22:51] Alive Peer(s): [1, 2, 50] and Dead peer(s) [].
+[17:08:35] ========================================
+Tracker started at ['localhost', 8080]
+===================================================
+[17:08:57] Alive Peer(s): [1, 2, 3] and Dead peer(s) [].
+[17:09:02] Peer 1 registered as owner of file cn.pdf
+[17:09:09] Peer 1 registered as owner of file h.txt
+[17:09:19] Alive Peer(s): [1, 2, 3] and Dead peer(s) [].
+[17:09:19] Peer 2 registered as owner of file cn.pdf
+[17:09:41] Alive Peer(s): [1, 2, 3] and Dead peer(s) [].
+[17:09:42] Peer 2 registered as owner of file h.txt
+[17:10:03] Alive Peer(s): [1, 2, 3] and Dead peer(s) [].
+[17:10:25] Alive Peer(s): [1, 2, 3] and Dead peer(s) [].
+[17:10:40] Peer 3 requested file h.txt
+[17:10:40] Peer 3 requested file h.txt
+[17:10:40] Peer 3 registered as owner of file h.txt
+[17:10:47] Alive Peer(s): [1, 2, 3] and Dead peer(s) [].
+[17:10:50] Peer 3 requested file cn.pdf
+[17:10:50] Peer 3 requested file cn.pdf
+[17:10:50] Peer 3 registered as owner of file cn.pdf
+[15:29:44] ========================================
+Tracker started at ['192.168.0.132', 8080]
+===================================================
+[15:37:35] ========================================
+Tracker started at ['192.168.0.132', 8080]
+===================================================
+[15:37:57] Alive Peer(s): [1] and Dead peer(s) [].
+[15:38:19] Alive Peer(s): [1] and Dead peer(s) [].
+[15:38:41] Alive Peer(s): [1] and Dead peer(s) [].
+[15:39:03] Alive Peer(s): [1] and Dead peer(s) [].
+[15:39:25] Alive Peer(s): [1] and Dead peer(s) [].
+[15:39:47] Alive Peer(s): [1] and Dead peer(s) [].
+[15:40:09] Alive Peer(s): [1] and Dead peer(s) [].
+[15:40:31] Alive Peer(s): [1] and Dead peer(s) [].
+[15:40:53] Alive Peer(s): [1] and Dead peer(s) [].
+[15:41:15] Alive Peer(s): [1] and Dead peer(s) [].
+[15:41:37] Alive Peer(s): [1] and Dead peer(s) [].
+[15:41:59] Alive Peer(s): [1] and Dead peer(s) [].
+[15:42:21] Alive Peer(s): [1] and Dead peer(s) [].
+[15:42:43] Alive Peer(s): [1] and Dead peer(s) [].
+[15:43:05] Alive Peer(s): [1] and Dead peer(s) [].
+[15:43:27] Alive Peer(s): [1] and Dead peer(s) [].
+[15:43:49] Alive Peer(s): [1] and Dead peer(s) [].
+[15:44:11] Alive Peer(s): [1] and Dead peer(s) [].
+[15:44:33] Alive Peer(s): [1] and Dead peer(s) [].
+[15:44:55] Alive Peer(s): [1] and Dead peer(s) [].
+[15:45:17] Alive Peer(s): [1] and Dead peer(s) [].
+[15:45:39] Alive Peer(s): [1] and Dead peer(s) [].
+[15:46:01] Alive Peer(s): [1] and Dead peer(s) [].
+[15:46:23] Alive Peer(s): [1] and Dead peer(s) [].
+[15:46:45] Alive Peer(s): [1] and Dead peer(s) [].
+[15:47:07] Alive Peer(s): [1] and Dead peer(s) [].
+[15:47:29] Alive Peer(s): [1] and Dead peer(s) [].
+[15:47:51] Alive Peer(s): [1] and Dead peer(s) [].
+[15:48:13] Alive Peer(s): [1] and Dead peer(s) [].
+[15:48:35] Alive Peer(s): [1] and Dead peer(s) [].
+[15:48:57] Alive Peer(s): [1] and Dead peer(s) [].
+[15:49:19] Alive Peer(s): [1] and Dead peer(s) [].
+[15:49:41] Alive Peer(s): [1] and Dead peer(s) [].
+[15:50:03] Alive Peer(s): [1] and Dead peer(s) [].
+[15:50:25] Alive Peer(s): [1] and Dead peer(s) [].
+[15:50:47] Alive Peer(s): [1] and Dead peer(s) [].
+[15:51:09] Alive Peer(s): [1] and Dead peer(s) [].
+[15:51:31] Alive Peer(s): [1] and Dead peer(s) [].
+[15:51:53] Alive Peer(s): [1] and Dead peer(s) [].
+[15:52:15] Alive Peer(s): [1] and Dead peer(s) [].
+[15:52:37] Alive Peer(s): [1] and Dead peer(s) [].
+[15:52:59] Alive Peer(s): [1] and Dead peer(s) [].
+[15:53:21] Alive Peer(s): [1] and Dead peer(s) [].
+[15:53:43] Alive Peer(s): [1] and Dead peer(s) [].
+[15:54:05] Alive Peer(s): [1] and Dead peer(s) [].
+[15:54:27] Alive Peer(s): [1] and Dead peer(s) [].
+[15:54:49] Alive Peer(s): [1] and Dead peer(s) [].
+[15:55:11] Alive Peer(s): [1] and Dead peer(s) [].
+[15:55:33] Alive Peer(s): [1] and Dead peer(s) [].
+[15:55:55] Alive Peer(s): [1] and Dead peer(s) [].
+[15:56:17] Alive Peer(s): [1] and Dead peer(s) [].
+[15:56:39] Alive Peer(s): [1] and Dead peer(s) [].
+[15:57:01] Alive Peer(s): [1] and Dead peer(s) [].
+[15:57:23] Alive Peer(s): [1] and Dead peer(s) [].
+[15:59:56] ========================================
+Tracker started at ['192.168.1.20', 8080]
+===================================================
+[16:09:42] ========================================
+Tracker started at ['192.168.1.20', 8080]
+===================================================
+[16:23:56] ========================================
+Tracker started at ['192.168.0.132', 8080]
+===================================================
+[16:24:40] Alive Peer(s): [1] and Dead peer(s) [].
+[16:24:40] Peer 1 registered as owner of file cn.pdf
+[16:25:02] Alive Peer(s): [1] and Dead peer(s) [].
+[16:25:23] Peer 50 requested file cn.pdf
+[16:25:23] Peer 50 requested file cn.pdf
+[16:25:23] Peer 50 registered as owner of file cn.pdf
+[16:25:24] Alive Peer(s): [1, 50] and Dead peer(s) [].
+[16:25:46] Alive Peer(s): [1, 50] and Dead peer(s) [].
+[16:26:08] Alive Peer(s): [1, 50] and Dead peer(s) [].
+[16:26:30] Alive Peer(s): [1, 50] and Dead peer(s) [].
+[16:26:52] Alive Peer(s): [1, 50] and Dead peer(s) [].
+[16:27:14] Alive Peer(s): [1, 50] and Dead peer(s) [].
+[16:27:36] Alive Peer(s): [1, 50] and Dead peer(s) [].
+[16:27:58] Alive Peer(s): [1, 50] and Dead peer(s) [].
+[16:28:20] Alive Peer(s): [1, 50] and Dead peer(s) [].
+[16:28:42] Alive Peer(s): [1, 50] and Dead peer(s) [].
+[16:29:04] Alive Peer(s): [1, 50] and Dead peer(s) [].
+[16:29:26] Alive Peer(s): [1, 50] and Dead peer(s) [].
+[16:29:48] Alive Peer(s): [1, 50, 2] and Dead peer(s) [].
+[16:29:53] Peer 2 registered as owner of file cn.pdf
+[16:30:32] ========================================
+Tracker started at ['192.168.0.132', 8080]
+===================================================
+[16:30:54] Alive Peer(s): [1] and Dead peer(s) [].
+[16:31:16] Alive Peer(s): [1, 2] and Dead peer(s) [].
+[16:31:23] Peer 2 registered as owner of file cn.pdf
+[16:31:38] Alive Peer(s): [1, 2] and Dead peer(s) [].
+[16:31:50] Peer 46 requested file cn.pdf
+[16:31:50] Peer 46 requested file cn.pdf
+[16:32:00] Alive Peer(s): [1, 2, 46] and Dead peer(s) [].
+[16:32:22] Alive Peer(s): [1, 2, 46] and Dead peer(s) [].
+[16:32:38] Peer 46 requested file cn.pdf
+[16:32:38] Peer 46 requested file cn.pdf
+[16:32:44] Alive Peer(s): [1, 2, 46] and Dead peer(s) [].
+[16:33:06] Alive Peer(s): [1, 2, 46] and Dead peer(s) [].
+[16:33:28] Alive Peer(s): [1, 2, 46] and Dead peer(s) [].
+[16:33:50] Alive Peer(s): [1, 2, 46] and Dead peer(s) [].
+[16:34:12] Alive Peer(s): [1, 2, 46] and Dead peer(s) [].
+[16:34:34] Alive Peer(s): [1, 2, 46] and Dead peer(s) [].
+[16:34:56] Alive Peer(s): [1, 2, 46] and Dead peer(s) [].
+[16:35:18] Alive Peer(s): [1, 2, 46] and Dead peer(s) [].
+[16:35:40] Alive Peer(s): [1, 2, 46] and Dead peer(s) [].
+[16:35:52] ========================================
+Tracker started at ['192.168.0.132', 8080]
+===================================================
+[16:36:32] Peer 1 registered as owner of file cn.pdf
+[16:36:36] Alive Peer(s): [1] and Dead peer(s) [].
+[16:36:58] Alive Peer(s): [40, 1] and Dead peer(s) [].
+[16:37:10] Peer 40 requested file cn.pdf
+[16:37:10] Peer 40 requested file cn.pdf
+[16:37:20] Alive Peer(s): [40, 1] and Dead peer(s) [].
+[16:37:42] Alive Peer(s): [40, 1] and Dead peer(s) [].
+[16:38:04] Alive Peer(s): [40, 1] and Dead peer(s) [].
+[16:38:35] ========================================
+Tracker started at ['192.168.0.132', 8080]
+===================================================
+[16:38:57] Alive Peer(s): [1, 19] and Dead peer(s) [].
+[16:39:05] Peer 1 registered as owner of file cn.pdf
+[16:39:18] Peer 19 requested file cn.pdf
+[16:39:18] Peer 19 requested file cn.pdf
+[16:39:19] Alive Peer(s): [1, 19] and Dead peer(s) [].
+[16:39:41] Alive Peer(s): [1, 19] and Dead peer(s) [].
+[16:40:03] Alive Peer(s): [19] and Dead peer(s) [1].
+[16:40:25] Alive Peer(s): [] and Dead peer(s) [19].
+[16:40:51] ========================================
+Tracker started at ['192.168.0.132', 8080]
+===================================================
+[16:41:13] Alive Peer(s): [1] and Dead peer(s) [].
+[16:41:35] Alive Peer(s): [1] and Dead peer(s) [].
+[16:41:57] Alive Peer(s): [1] and Dead peer(s) [].
+[16:42:19] Alive Peer(s): [1] and Dead peer(s) [].
+[16:42:31] Peer 1 registered as owner of file cn.pdf
+[16:42:41] Alive Peer(s): [1, 11] and Dead peer(s) [].
+[16:42:47] Peer 11 requested file cn.pdf
+[16:42:47] Peer 11 requested file cn.pdf
+[16:43:03] Alive Peer(s): [1, 11] and Dead peer(s) [].
+[16:43:25] Alive Peer(s): [1, 11] and Dead peer(s) [].
+[16:43:47] Alive Peer(s): [1, 11] and Dead peer(s) [].
+[16:47:15] ========================================
+Tracker started at ['192.168.0.132', 8080]
+===================================================
+[16:53:29] ========================================
+Tracker started at ['192.168.0.132', 8080]
+===================================================
+[16:53:51] Alive Peer(s): [1] and Dead peer(s) [].
+[16:54:13] Alive Peer(s): [1, 12] and Dead peer(s) [].
+[16:54:15] Peer 1 registered as owner of file cn.pdf
+[16:54:30] Peer 12 requested file cn.pdf
+[16:54:30] Peer 12 requested file cn.pdf
+[16:54:35] Alive Peer(s): [1, 12] and Dead peer(s) [].
+[16:54:57] Alive Peer(s): [1, 12] and Dead peer(s) [].
+[16:55:19] Alive Peer(s): [1, 12] and Dead peer(s) [].
+[16:55:41] Alive Peer(s): [1, 12] and Dead peer(s) [].
+[16:56:03] Alive Peer(s): [1, 12] and Dead peer(s) [].
+[16:56:25] Alive Peer(s): [1, 12] and Dead peer(s) [].
+[16:56:47] Alive Peer(s): [1, 12] and Dead peer(s) [].
+[16:57:09] Alive Peer(s): [1, 12] and Dead peer(s) [].
+[16:58:12] ========================================
+Tracker started at ['192.168.0.132', 8080]
+===================================================
+[16:59:15] Peer 1 registered as owner of file cn.pdf
+[16:59:18] Alive Peer(s): [1, 14] and Dead peer(s) [].
+[16:59:29] Peer 14 requested file cn.pdf
+[16:59:29] Peer 14 requested file cn.pdf
+[16:59:40] Alive Peer(s): [1, 14] and Dead peer(s) [].
+[17:02:56] ========================================
+Tracker started at ['192.168.0.132', 8080]
+===================================================
+[17:03:18] Alive Peer(s): [1] and Dead peer(s) [].
+[17:03:40] Alive Peer(s): [1] and Dead peer(s) [].
+[17:04:02] Alive Peer(s): [1] and Dead peer(s) [].
+[17:04:24] Alive Peer(s): [1] and Dead peer(s) [].
+[17:04:46] Alive Peer(s): [1] and Dead peer(s) [].
+[17:05:08] Alive Peer(s): [1] and Dead peer(s) [].
+[17:05:30] Alive Peer(s): [1] and Dead peer(s) [].
+[17:05:52] Alive Peer(s): [1] and Dead peer(s) [].
+[17:06:14] Alive Peer(s): [1] and Dead peer(s) [].
+[17:06:36] Alive Peer(s): [1] and Dead peer(s) [].
+[17:06:58] Alive Peer(s): [1] and Dead peer(s) [].
+[17:27:46] ========================================
+Tracker started at ['192.168.0.132', 8080]
+===================================================
+[17:28:25] ========================================
+Tracker started at ['192.168.0.132', 8080]
+===================================================
+[17:28:47] Alive Peer(s): [1] and Dead peer(s) [].
+[17:29:09] Alive Peer(s): [1] and Dead peer(s) [].
+[17:29:31] Alive Peer(s): [1] and Dead peer(s) [].
+[17:29:53] Alive Peer(s): [1] and Dead peer(s) [].
+[17:30:15] Alive Peer(s): [1] and Dead peer(s) [].
+[17:30:37] Alive Peer(s): [1] and Dead peer(s) [].
+[17:30:59] Alive Peer(s): [1] and Dead peer(s) [].
+[17:31:09] Peer 1 registered as owner of file cn.pdf
+[17:31:16] Peer 17 requested file cn.pdf
+[17:31:16] Peer 17 requested file cn.pdf
+[17:31:21] Alive Peer(s): [1, 17] and Dead peer(s) [].
+[17:31:43] Alive Peer(s): [1, 17] and Dead peer(s) [].
+[17:32:05] Alive Peer(s): [1, 17] and Dead peer(s) [].
+[17:39:11] ========================================
+Tracker started at ['192.168.0.132', 8080]
+===================================================
+[17:39:33] Alive Peer(s): [1] and Dead peer(s) [].
+[17:39:44] Peer 1 registered as owner of file cn.pdf
+[17:39:55] Alive Peer(s): [1, 21] and Dead peer(s) [].
+[17:40:04] Peer 21 requested file cn.pdf
+[17:40:04] Peer 21 requested file cn.pdf
+[17:40:17] Alive Peer(s): [1, 21] and Dead peer(s) [].
+[17:40:39] Alive Peer(s): [1, 21] and Dead peer(s) [].
+[17:41:01] Alive Peer(s): [1, 21] and Dead peer(s) [].
+[17:41:23] Alive Peer(s): [1, 21] and Dead peer(s) [].
+[17:41:45] Alive Peer(s): [1, 21] and Dead peer(s) [].
+[17:42:07] Alive Peer(s): [1, 21] and Dead peer(s) [].
+[17:42:29] Alive Peer(s): [1, 21] and Dead peer(s) [].
+[17:42:51] Alive Peer(s): [1, 21] and Dead peer(s) [].
+[17:43:13] Alive Peer(s): [1, 21] and Dead peer(s) [].
+[17:43:35] Alive Peer(s): [1, 21] and Dead peer(s) [].
+[17:43:57] Alive Peer(s): [1, 21] and Dead peer(s) [].
+[17:44:19] Alive Peer(s): [1, 21] and Dead peer(s) [].
+[17:44:41] Alive Peer(s): [1, 21] and Dead peer(s) [].
+[17:45:03] Alive Peer(s): [1, 21] and Dead peer(s) [].
+[17:45:25] Alive Peer(s): [1, 21] and Dead peer(s) [].
+[17:45:47] Alive Peer(s): [1, 21] and Dead peer(s) [].
+[17:46:09] Alive Peer(s): [1, 21] and Dead peer(s) [].
+[17:46:18] Peer 1 exited the torrent intentionally.
+[17:46:26] ========================================
+Tracker started at ['192.168.0.132', 8080]
+===================================================
+[17:46:48] Alive Peer(s): [1] and Dead peer(s) [].
+[17:47:10] Alive Peer(s): [1, 22] and Dead peer(s) [].
+[17:47:21] Peer 1 registered as owner of file cn.pdf
+[17:47:32] Alive Peer(s): [1, 22] and Dead peer(s) [].
+[17:47:32] Peer 22 requested file cn.pdf
+[17:47:32] Peer 22 requested file cn.pdf
+[17:47:54] Alive Peer(s): [1, 22] and Dead peer(s) [].
+[17:48:16] Alive Peer(s): [1, 22] and Dead peer(s) [].
+[17:48:38] Alive Peer(s): [1, 22] and Dead peer(s) [].
+[17:49:00] Alive Peer(s): [1, 22] and Dead peer(s) [].
+[17:49:22] Alive Peer(s): [1, 22] and Dead peer(s) [].
+[17:49:44] Alive Peer(s): [1, 22] and Dead peer(s) [].
+[17:50:06] Alive Peer(s): [1, 22] and Dead peer(s) [].
+[17:50:28] Alive Peer(s): [1, 22] and Dead peer(s) [].
+[17:55:21] ========================================
+Tracker started at ['192.168.0.132', 8080]
+===================================================
+[17:55:43] Alive Peer(s): [22] and Dead peer(s) [].
+[17:56:05] Alive Peer(s): [1, 22, 15] and Dead peer(s) [].
+[17:56:19] Peer 1 registered as owner of file cn.pdf
+[17:56:27] Alive Peer(s): [1, 22, 15] and Dead peer(s) [].
+[17:56:49] Alive Peer(s): [1, 22, 15] and Dead peer(s) [].
+[17:56:58] Peer 15 requested file cn.pdf
+[17:56:58] Peer 15 requested file cn.pdf
+[17:57:11] Alive Peer(s): [1, 22, 15] and Dead peer(s) [].
+[17:57:33] Alive Peer(s): [1, 22, 15] and Dead peer(s) [].
+[17:57:55] Alive Peer(s): [22, 15] and Dead peer(s) [1].
+[17:58:03] Peer 1 registered as owner of file cn.pdf
+[17:58:11] Peer 30 requested file cn.pdf
+[17:58:11] Peer 30 requested file cn.pdf
+[17:58:11] Peer 30 registered as owner of file cn.pdf
+[17:58:17] Alive Peer(s): [1, 30, 22, 15] and Dead peer(s) [].
+[17:58:39] Alive Peer(s): [1, 22, 15] and Dead peer(s) [30].
+[17:59:01] Alive Peer(s): [22, 15] and Dead peer(s) [1].
+[17:59:23] Alive Peer(s): [22, 15] and Dead peer(s) [].
+[17:59:45] Alive Peer(s): [22, 15] and Dead peer(s) [].
+[18:00:07] Alive Peer(s): [22] and Dead peer(s) [15].
+[18:00:29] Alive Peer(s): [22] and Dead peer(s) [].
+[18:00:51] Alive Peer(s): [22] and Dead peer(s) [].
+[18:01:13] Alive Peer(s): [22] and Dead peer(s) [].
+[18:01:35] Alive Peer(s): [22] and Dead peer(s) [].
+[18:01:57] Alive Peer(s): [22] and Dead peer(s) [].
+[18:02:19] Alive Peer(s): [22] and Dead peer(s) [].
+[18:02:41] Alive Peer(s): [22] and Dead peer(s) [].
+[18:03:03] Alive Peer(s): [22] and Dead peer(s) [].
+[18:03:25] Alive Peer(s): [22] and Dead peer(s) [].
+[18:03:47] Alive Peer(s): [22] and Dead peer(s) [].
+[18:04:09] Alive Peer(s): [22] and Dead peer(s) [].
+[18:04:31] Alive Peer(s): [22] and Dead peer(s) [].
+[18:04:52] ========================================
+Tracker started at ['192.168.1.255', 8080]
+===================================================
+[18:05:14] Alive Peer(s): [22] and Dead peer(s) [].
+[18:05:36] Alive Peer(s): [22] and Dead peer(s) [].
+[18:05:58] Alive Peer(s): [22] and Dead peer(s) [].
+[18:06:20] Alive Peer(s): [22] and Dead peer(s) [].
+[18:06:42] Alive Peer(s): [22] and Dead peer(s) [].
+[18:07:04] Alive Peer(s): [22] and Dead peer(s) [].
+[18:07:26] Alive Peer(s): [22] and Dead peer(s) [].
+[18:07:48] Alive Peer(s): [22] and Dead peer(s) [].
+[18:08:10] Alive Peer(s): [22] and Dead peer(s) [].
+[18:08:32] Alive Peer(s): [22] and Dead peer(s) [].
+[18:08:54] Alive Peer(s): [22] and Dead peer(s) [].
+[18:09:16] Alive Peer(s): [22] and Dead peer(s) [].
+[18:09:38] Alive Peer(s): [22] and Dead peer(s) [].
+[18:10:00] Alive Peer(s): [22] and Dead peer(s) [].
+[18:10:22] Alive Peer(s): [22] and Dead peer(s) [].
+[18:10:44] Alive Peer(s): [22] and Dead peer(s) [].
+[18:11:06] Alive Peer(s): [22] and Dead peer(s) [].
+[18:11:28] Alive Peer(s): [22] and Dead peer(s) [].
+[18:11:50] Alive Peer(s): [22] and Dead peer(s) [].
+[18:12:12] Alive Peer(s): [22] and Dead peer(s) [].
+[18:12:34] Alive Peer(s): [22] and Dead peer(s) [].
+[18:12:56] Alive Peer(s): [22] and Dead peer(s) [].
+[18:13:18] Alive Peer(s): [22] and Dead peer(s) [].
+[18:13:40] Alive Peer(s): [22] and Dead peer(s) [].
+[18:14:02] Alive Peer(s): [22] and Dead peer(s) [].
+[18:14:24] Alive Peer(s): [22] and Dead peer(s) [].
+[18:14:46] Alive Peer(s): [22] and Dead peer(s) [].
+[18:15:08] Alive Peer(s): [22] and Dead peer(s) [].
+[18:15:30] Alive Peer(s): [22] and Dead peer(s) [].
+[18:15:52] Alive Peer(s): [22] and Dead peer(s) [].
+[18:16:14] Alive Peer(s): [22] and Dead peer(s) [].
+[18:16:36] Alive Peer(s): [22] and Dead peer(s) [].
+[18:16:58] Alive Peer(s): [22] and Dead peer(s) [].
+[18:17:20] Alive Peer(s): [22] and Dead peer(s) [].
+[18:17:42] Alive Peer(s): [22] and Dead peer(s) [].
+[18:18:04] Alive Peer(s): [22] and Dead peer(s) [].
+[18:18:26] Alive Peer(s): [22] and Dead peer(s) [].
+[18:18:48] Alive Peer(s): [22] and Dead peer(s) [].
+[18:19:10] Alive Peer(s): [22] and Dead peer(s) [].
+[18:19:32] Alive Peer(s): [22] and Dead peer(s) [].
+[11:13:03] ========================================
+Tracker started at ['192.168.0.132', 8080]
+===================================================
+[11:15:25] ========================================
+Tracker started at ['192.168.0.132', 8080]
+===================================================
+[11:18:26] ========================================
+Tracker started at ['localhost', 8080]
+===================================================
+[11:18:45] Alive Peer(s): [1] and Dead peer(s) [].
+[11:18:46] Peer 1 registered as owner of file cn.pdf
+[11:19:07] Alive Peer(s): [1, 45] and Dead peer(s) [].
+[11:19:20] Peer 45 requested file cn.pdf
+[11:19:20] Peer 45 requested file cn.pdf
+[11:19:21] Peer 45 registered as owner of file cn.pdf
+[11:19:29] Alive Peer(s): [1, 45] and Dead peer(s) [].
+[11:46:29] ========================================
+Tracker started at ['192.168.1.4', 8000]
+===================================================
+[11:46:51] Alive Peer(s): [1] and Dead peer(s) [].
+[11:47:13] Alive Peer(s): [1] and Dead peer(s) [].
+[11:47:35] Alive Peer(s): [1] and Dead peer(s) [].
+[11:47:57] Alive Peer(s): [1] and Dead peer(s) [].
+[11:48:19] Alive Peer(s): [1] and Dead peer(s) [].
+[11:48:41] Alive Peer(s): [1] and Dead peer(s) [].
+[11:49:03] Alive Peer(s): [1] and Dead peer(s) [].
+[11:49:25] Alive Peer(s): [1] and Dead peer(s) [].
+[11:49:47] Alive Peer(s): [1] and Dead peer(s) [].
+[11:50:09] Alive Peer(s): [1] and Dead peer(s) [].
+[11:50:31] Alive Peer(s): [1] and Dead peer(s) [].
+[11:50:53] Alive Peer(s): [1] and Dead peer(s) [].
+[11:51:15] Alive Peer(s): [1] and Dead peer(s) [].
+[11:51:37] Alive Peer(s): [1] and Dead peer(s) [].
+[11:51:59] Alive Peer(s): [1] and Dead peer(s) [].
+[11:52:21] Alive Peer(s): [1] and Dead peer(s) [].
+[11:52:43] Alive Peer(s): [1] and Dead peer(s) [].
+[11:53:05] Alive Peer(s): [1] and Dead peer(s) [].
+[11:53:27] Alive Peer(s): [1] and Dead peer(s) [].
+[11:53:49] Alive Peer(s): [1] and Dead peer(s) [].
+[11:54:11] Alive Peer(s): [1] and Dead peer(s) [].
+[11:54:33] Alive Peer(s): [1] and Dead peer(s) [].
+[11:54:55] Alive Peer(s): [1] and Dead peer(s) [].
+[11:55:17] Alive Peer(s): [1] and Dead peer(s) [].
+[11:55:39] Alive Peer(s): [1] and Dead peer(s) [].
+[11:56:01] Alive Peer(s): [1] and Dead peer(s) [].
+[11:56:23] Alive Peer(s): [1] and Dead peer(s) [].
+[11:56:45] Alive Peer(s): [1] and Dead peer(s) [].
+[11:57:07] Alive Peer(s): [1] and Dead peer(s) [].
+[11:57:29] Alive Peer(s): [1] and Dead peer(s) [].
+[11:57:51] Alive Peer(s): [1, 55] and Dead peer(s) [].
+[11:57:55] Peer 1 registered as owner of file cn.pdf
+[11:58:13] Alive Peer(s): [1] and Dead peer(s) [55].
+[11:58:35] Alive Peer(s): [1, 55] and Dead peer(s) [].
+[11:58:57] Alive Peer(s): [1] and Dead peer(s) [55].
+[11:59:19] Alive Peer(s): [1, 59] and Dead peer(s) [].
+[11:59:41] Alive Peer(s): [1] and Dead peer(s) [59].
+[12:00:03] Alive Peer(s): [1] and Dead peer(s) [].
+[12:00:25] Alive Peer(s): [1, 2] and Dead peer(s) [].
+[12:00:47] Alive Peer(s): [] and Dead peer(s) [1].
+[12:01:47] ========================================
+Tracker started at ['192.168.1.4', 8000]
+===================================================
+[12:02:09] Alive Peer(s): [1, 63] and Dead peer(s) [].
+[12:02:19] Peer 2 registered as owner of file cn.pdf
+[12:02:31] Alive Peer(s): [] and Dead peer(s) [1].
+[12:02:53] Alive Peer(s): [] and Dead peer(s) [63].
+[12:03:15] Alive Peer(s): [2] and Dead peer(s) [].
+[12:03:37] Alive Peer(s): [2] and Dead peer(s) [].
+[12:03:58] Peer 2 registered as owner of file cn.pdf
+[12:03:59] Alive Peer(s): [64, 2] and Dead peer(s) [].
+[12:04:21] Alive Peer(s): [2] and Dead peer(s) [64].
+[12:04:43] Alive Peer(s): [2] and Dead peer(s) [].
+[12:05:05] Alive Peer(s): [2] and Dead peer(s) [].
+[12:05:27] Alive Peer(s): [2] and Dead peer(s) [].
+[12:06:09] ========================================
+Tracker started at ['192.168.1.4', 8000]
+===================================================
+[12:06:29] Alive Peer(s): [2] and Dead peer(s) [].
+[12:06:51] Alive Peer(s): [] and Dead peer(s) [2].
+[12:06:59] Peer 1 registered as owner of file cn.pdf
+[12:07:06] Peer 69 requested file cn.pdf
+[12:07:06] Peer 69 requested file cn.pdf
+[12:07:06] Peer 69 registered as owner of file cn.pdf
+[12:07:13] Alive Peer(s): [1, 69] and Dead peer(s) [].
+[12:12:33] ========================================
+Tracker started at ['192.168.1.4', 8000]
+===================================================
+[12:12:51] Alive Peer(s): [1] and Dead peer(s) [].
+[12:13:12] Peer 1 registered as owner of file cn.pdf
+[12:13:13] Alive Peer(s): [1, 2] and Dead peer(s) [].
+[12:13:29] Peer 2 registered as owner of file cn.pdf
+[12:13:35] Alive Peer(s): [1, 2] and Dead peer(s) [].
+[12:13:57] Alive Peer(s): [1, 2] and Dead peer(s) [].
+[12:14:19] Alive Peer(s): [1, 2] and Dead peer(s) [].
+[12:14:41] Alive Peer(s): [1, 2] and Dead peer(s) [].
+[12:15:03] Alive Peer(s): [1, 2] and Dead peer(s) [].
+[12:15:25] Alive Peer(s): [1, 2] and Dead peer(s) [].
+[12:15:47] Alive Peer(s): [1, 2] and Dead peer(s) [].
+[12:16:09] Alive Peer(s): [1, 2] and Dead peer(s) [].
+[12:16:31] Alive Peer(s): [1, 2] and Dead peer(s) [].
+[12:16:53] Alive Peer(s): [1, 2] and Dead peer(s) [].
+[12:17:15] Alive Peer(s): [1, 2] and Dead peer(s) [].
+[12:17:37] Alive Peer(s): [1, 2] and Dead peer(s) [].
+[12:17:59] Alive Peer(s): [1, 2] and Dead peer(s) [].
+[12:18:21] Alive Peer(s): [1, 2] and Dead peer(s) [].
+[12:18:43] Alive Peer(s): [1, 2] and Dead peer(s) [].
+[12:19:05] Alive Peer(s): [1, 2] and Dead peer(s) [].
+[12:19:27] Alive Peer(s): [1, 2] and Dead peer(s) [].
+[12:19:49] Alive Peer(s): [1, 2] and Dead peer(s) [].
+[12:20:11] Alive Peer(s): [1, 2] and Dead peer(s) [].
+[12:20:33] Alive Peer(s): [1, 2] and Dead peer(s) [].
+[12:20:55] Alive Peer(s): [1, 2] and Dead peer(s) [].
+[12:21:17] Alive Peer(s): [1, 2] and Dead peer(s) [].
+[12:21:39] Alive Peer(s): [1, 2] and Dead peer(s) [].
+[12:22:01] Alive Peer(s): [1, 2] and Dead peer(s) [].
+[12:22:23] Alive Peer(s): [1, 2] and Dead peer(s) [].
+[12:22:43] ========================================
+Tracker started at ['192.168.1.4', 8000]
+===================================================
+[12:25:17] ========================================
+Tracker started at ['192.168.1.4', 8000]
+===================================================
+[12:25:28] Peer 1 registered as owner of file cn.pdf
+[12:25:35] Alive Peer(s): [1] and Dead peer(s) [].
+[12:25:57] Alive Peer(s): [1] and Dead peer(s) [].
+[12:26:19] Alive Peer(s): [1] and Dead peer(s) [].
+[12:26:52] ========================================
+Tracker started at ['192.168.1.4', 8000]
+===================================================
+[12:27:19] ========================================
+Tracker started at ['192.168.1.4', 8000]
+===================================================
+[12:27:59] Peer 1 registered as owner of file cn.pdf
+[12:28:03] Alive Peer(s): [1] and Dead peer(s) [].
+[12:29:25] ========================================
+Tracker started at ['192.168.1.4', 8000]
+===================================================
+[12:34:15] ========================================
+Tracker started at ['192.168.1.4', 8000]
+===================================================
+[12:34:25] Peer 1 registered as owner of file cn.pdf
+[12:34:35] Alive Peer(s): [1] and Dead peer(s) [].
+[12:34:57] Alive Peer(s): [1] and Dead peer(s) [].
+[12:35:19] Alive Peer(s): [1] and Dead peer(s) [].
+[12:35:41] Alive Peer(s): [1] and Dead peer(s) [].
+[12:36:03] Alive Peer(s): [1] and Dead peer(s) [].
+[12:36:25] Alive Peer(s): [1] and Dead peer(s) [].
+[12:36:47] Alive Peer(s): [1] and Dead peer(s) [].
+[12:37:09] ========================================
+Tracker started at ['192.168.1.4', 8000]
+===================================================
+[12:37:19] Peer 1 registered as owner of file cn.pdf
+[12:37:28] Alive Peer(s): [1] and Dead peer(s) [].
+[12:38:02] ========================================
+Tracker started at ['192.168.1.4', 8000]
+===================================================
+[12:38:10] Peer 1 registered as owner of file cn.pdf
+[12:38:18] Alive Peer(s): [1] and Dead peer(s) [].
+[12:38:40] Alive Peer(s): [1] and Dead peer(s) [].
+[12:39:02] Alive Peer(s): [1] and Dead peer(s) [].
+[12:39:24] Alive Peer(s): [1] and Dead peer(s) [].
+[12:39:46] Alive Peer(s): [1, 99] and Dead peer(s) [].
+[12:40:01] Peer 99 requested file cn.pdf
+[12:40:01] Peer 99 requested file cn.pdf
+[12:40:01] Peer 99 registered as owner of file cn.pdf
+[12:40:08] Alive Peer(s): [1, 99] and Dead peer(s) [].
+[12:40:30] Alive Peer(s): [1, 99] and Dead peer(s) [].
+[12:40:52] Alive Peer(s): [1, 99] and Dead peer(s) [].
+[12:41:14] Alive Peer(s): [1, 99] and Dead peer(s) [].
+[12:41:36] Alive Peer(s): [1, 99] and Dead peer(s) [].
+[12:41:58] Alive Peer(s): [1, 99] and Dead peer(s) [].
+[12:42:20] Alive Peer(s): [1, 99] and Dead peer(s) [].
+[12:42:42] Alive Peer(s): [1, 99] and Dead peer(s) [].
+[12:43:04] Alive Peer(s): [1, 99] and Dead peer(s) [].
+[12:43:26] Alive Peer(s): [1, 99] and Dead peer(s) [].
+[12:43:48] Alive Peer(s): [1, 99] and Dead peer(s) [].
+[12:49:15] ========================================
+Tracker started at ['192.168.1.4', 8000]
+===================================================
+[12:49:26] Peer 1 registered as owner of file cn.pdf
+[12:49:34] Alive Peer(s): [1] and Dead peer(s) [].
+[12:49:56] Alive Peer(s): [1] and Dead peer(s) [].
+[12:50:18] Alive Peer(s): [1] and Dead peer(s) [].
+[12:50:40] Alive Peer(s): [1] and Dead peer(s) [].
+[12:51:15] ========================================
+Tracker started at ['192.168.1.4', 8000]
+===================================================
+[12:51:19] Peer 1 registered as owner of file cn.pdf
+[12:51:26] Alive Peer(s): [1] and Dead peer(s) [].
+[13:41:12] ========================================
+Tracker started at ['192.168.1.4', 8000]
+===================================================
+[13:43:38] ========================================
+Tracker started at ['192.168.1.4', 8000]
+===================================================
+[13:44:38] ========================================
+Tracker started at ['localhost', 8000]
+===================================================
+[13:44:58] Alive Peer(s): [1] and Dead peer(s) [].
+[13:45:20] Alive Peer(s): [1, 2] and Dead peer(s) [].
+[13:45:42] Alive Peer(s): [1, 2] and Dead peer(s) [].
+[13:45:59] Peer 1 registered as owner of file cn.pdf
+[13:46:04] Peer 2 registered as owner of file cn.pdf
+[13:46:04] Alive Peer(s): [1, 2, 100] and Dead peer(s) [].
+[13:46:11] Peer 100 requested file cn.pdf
+[13:46:11] Peer 100 requested file cn.pdf
+[13:46:11] Peer 100 registered as owner of file cn.pdf
+[13:46:26] Alive Peer(s): [1, 2, 100] and Dead peer(s) [].
+[13:46:48] Alive Peer(s): [1, 2, 100] and Dead peer(s) [].
+[13:47:10] Alive Peer(s): [1, 2, 100] and Dead peer(s) [].
+[13:47:49] ========================================
+Tracker started at ['localhost', 8000]
+===================================================
+[13:47:59] Alive Peer(s): [1] and Dead peer(s) [].
+[13:48:21] Alive Peer(s): [1] and Dead peer(s) [].
+[13:48:43] Alive Peer(s): [1] and Dead peer(s) [].
+[13:49:05] Alive Peer(s): [1] and Dead peer(s) [].
+[13:49:27] Alive Peer(s): [1] and Dead peer(s) [].
+[13:49:49] Alive Peer(s): [1] and Dead peer(s) [].
+[13:50:11] Alive Peer(s): [1] and Dead peer(s) [].
+[13:50:33] Alive Peer(s): [1] and Dead peer(s) [].
+[13:50:55] Alive Peer(s): [1] and Dead peer(s) [].
+[13:51:17] Alive Peer(s): [1] and Dead peer(s) [].
+[13:51:39] Alive Peer(s): [1] and Dead peer(s) [].
+[13:52:01] Alive Peer(s): [1] and Dead peer(s) [].
+[13:52:23] Alive Peer(s): [1] and Dead peer(s) [].
+[13:56:30] ========================================
+Tracker started at ['localhost', 8000]
+===================================================
+[13:56:50] Alive Peer(s): [1, 2] and Dead peer(s) [].
+[13:56:55] Peer 1 registered as owner of file cn.pdf
+[13:56:59] Peer 2 registered as owner of file cn.pdf
+[13:57:12] Alive Peer(s): [1, 2] and Dead peer(s) [].
+[13:57:34] Alive Peer(s): [1, 2] and Dead peer(s) [].
+[14:57:47] ========================================
+Tracker started at ['localhost', 8000]
+===================================================
+[14:58:06] Alive Peer(s): [1] and Dead peer(s) [].
+[14:58:15] Peer 1 registered as owner of file cn.pdf
+[14:58:21] Peer 1 registered as owner of file h.txt
+[14:58:28] Alive Peer(s): [1, 10] and Dead peer(s) [].
+[14:58:30] Peer 10 requested file cn.pdf
+[14:58:30] Peer 10 requested file cn.pdf
+[14:58:30] Peer 10 registered as owner of file cn.pdf
+[14:58:43] Peer 10 requested file h.txt
+[14:58:43] Peer 10 requested file h.txt
+[14:58:43] Peer 10 registered as owner of file h.txt
+[14:58:50] Alive Peer(s): [1, 10] and Dead peer(s) [].
+[15:22:23] ========================================
+Tracker started at ['localhost', 8000]
+===================================================
+[15:22:39] Alive Peer(s): [1] and Dead peer(s) [].
+[15:22:54] Peer 1 registered as owner of file h.txt
+[15:23:01] Alive Peer(s): [1, 33] and Dead peer(s) [].
+[15:23:23] Alive Peer(s): [1, 33] and Dead peer(s) [].
+[15:23:23] Peer 33 requested file h.txt
+[15:23:23] Peer 33 requested file h.txt
+[15:23:23] Peer 33 registered as owner of file h.txt
+[15:23:45] Alive Peer(s): [1, 33] and Dead peer(s) [].
+[15:27:51] ========================================
+Tracker started at ['localhost', 8000]
+===================================================
+[15:28:06] Alive Peer(s): [1] and Dead peer(s) [].
+[15:28:28] Alive Peer(s): [1] and Dead peer(s) [].
+[15:28:42] Peer 1 registered as owner of file cn.pdf
+[15:28:50] Alive Peer(s): [1, 85] and Dead peer(s) [].
+[15:28:51] Peer 85 requested file cn.pdf
+[15:28:51] Peer 85 requested file cn.pdf
+[15:28:52] Peer 85 registered as owner of file cn.pdf
+[15:29:12] Alive Peer(s): [1, 85] and Dead peer(s) [].
+[15:29:34] Alive Peer(s): [1, 85] and Dead peer(s) [].
+[15:29:56] Alive Peer(s): [1, 85] and Dead peer(s) [].
+[15:30:09] ========================================
+Tracker started at ['localhost', 8000]
+===================================================
+[15:31:13] Alive Peer(s): [1] and Dead peer(s) [].
+[15:31:20] Peer 1 registered as owner of file cn.pdf
+[15:31:35] Alive Peer(s): [1, 2] and Dead peer(s) [].
+[15:31:37] Peer 2 registered as owner of file cn.pdf
+[15:31:48] Peer 3 registered as owner of file cn.pdf
+[15:31:57] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[15:32:02] Peer 101 requested file cn.pdf
+[15:32:02] Peer 101 requested file cn.pdf
+[15:32:02] Peer 101 registered as owner of file cn.pdf
+[15:32:19] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[15:52:33] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[15:52:33] Alive Peer(s): [] and Dead peer(s) [1].
+[15:52:33] Alive Peer(s): [] and Dead peer(s) [2].
+[15:52:33] Alive Peer(s): [] and Dead peer(s) [3].
+[15:52:33] Alive Peer(s): [] and Dead peer(s) [101].
+[15:52:51] Alive Peer(s): [1, 2, 3] and Dead peer(s) [].
+[15:57:08] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[15:57:08] Alive Peer(s): [] and Dead peer(s) [1].
+[15:57:08] Alive Peer(s): [] and Dead peer(s) [3].
+[15:57:08] Alive Peer(s): [] and Dead peer(s) [2].
+[15:57:08] Alive Peer(s): [] and Dead peer(s) [101].
+[15:57:15] Alive Peer(s): [2, 101] and Dead peer(s) [].
+[15:57:37] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[15:59:00] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[15:59:00] Alive Peer(s): [] and Dead peer(s) [2].
+[15:59:00] Alive Peer(s): [] and Dead peer(s) [101].
+[15:59:05] Alive Peer(s): [1, 3] and Dead peer(s) [].
+[15:59:27] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[15:59:49] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:00:11] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:00:33] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:00:55] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:01:17] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:01:39] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:02:01] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:02:23] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:02:45] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:03:07] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:03:29] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:03:51] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:04:13] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:04:35] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:04:57] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:05:19] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:05:41] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:06:03] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:06:25] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:06:47] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:07:09] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:07:31] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:07:53] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:08:15] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:08:37] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:08:59] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:09:21] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:09:43] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:10:05] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:10:27] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:10:49] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:11:11] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:11:33] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:11:55] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:12:17] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:12:39] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:13:01] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:13:23] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:13:45] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:14:07] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:14:29] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:14:51] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:15:13] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:15:35] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:15:57] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:16:19] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:16:41] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:17:03] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:17:25] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:17:47] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:18:09] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:18:31] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:18:53] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:19:15] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:19:37] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:19:59] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:20:21] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:20:43] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:21:05] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:21:27] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:21:49] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:22:11] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:22:33] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:22:55] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:23:17] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:23:39] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:24:01] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:24:23] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:24:45] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:25:07] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:25:29] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:25:51] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:26:13] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:26:35] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:26:57] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:27:19] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:27:41] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:28:03] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:28:25] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:28:47] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:29:09] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:29:31] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:29:53] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:30:15] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:30:37] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:30:59] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:31:21] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:31:43] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:32:05] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:32:27] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:32:49] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:33:11] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:33:33] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:33:55] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:34:17] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:34:39] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:35:01] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:35:23] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:35:45] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:36:07] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:36:29] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:36:51] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:37:13] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:37:35] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:37:57] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:38:19] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:38:41] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:39:03] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:39:25] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:39:47] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:40:09] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:40:31] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:40:53] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:41:15] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:41:37] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:41:59] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:42:21] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:42:43] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:43:05] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:43:27] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:43:49] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:44:11] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:44:33] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:44:55] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:45:17] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:45:39] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:46:01] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:46:23] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:46:45] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:47:07] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:47:29] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:47:51] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:48:13] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:48:35] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:48:57] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:49:19] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:49:41] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:50:03] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:50:25] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:50:47] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:51:09] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:51:31] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:51:53] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:52:15] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:52:37] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:52:59] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:53:21] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:53:43] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:54:05] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:54:27] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:54:49] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:55:11] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:55:33] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:55:55] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:56:17] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:56:39] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:57:01] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:57:23] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:57:45] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:58:07] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:58:29] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:58:51] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:59:13] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:59:35] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[16:59:57] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:00:19] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:00:41] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:01:03] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:01:25] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:01:47] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:02:09] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:02:31] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:02:53] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:03:15] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:03:37] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:03:59] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:04:21] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:04:43] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:05:05] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:05:27] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:05:49] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:06:11] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:06:33] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:06:55] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:07:17] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:07:39] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:08:01] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:08:23] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:08:45] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:09:07] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:09:29] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:09:51] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:10:13] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:10:35] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:10:57] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:11:19] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:11:41] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:12:03] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:12:25] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:12:47] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:13:09] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:13:31] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:13:53] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:14:15] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:14:37] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:14:59] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:15:21] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:15:43] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:16:05] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:16:27] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:16:49] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:17:11] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:17:33] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:17:55] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:18:17] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:18:39] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:19:01] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:19:23] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:19:45] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:20:07] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:20:29] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:20:51] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:21:13] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:21:35] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:21:57] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:22:19] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:22:41] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:23:03] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:23:25] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:23:47] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:24:09] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:24:31] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:24:53] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:25:15] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:25:37] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:25:59] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:26:21] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:26:43] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:27:05] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:27:27] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:27:49] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:28:11] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:28:33] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:28:55] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:29:17] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:29:39] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:30:01] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:30:23] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:30:45] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:31:07] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:31:29] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:31:51] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:32:13] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:32:35] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:32:57] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:33:19] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:33:41] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:34:03] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:34:25] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:34:47] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:35:09] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:35:31] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:35:53] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:36:15] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:36:37] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:36:59] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:37:21] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:37:43] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:38:05] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:38:27] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[17:38:49] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[18:23:10] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[18:23:10] Alive Peer(s): [] and Dead peer(s) [1].
+[18:23:10] Alive Peer(s): [] and Dead peer(s) [3].
+[18:23:10] Alive Peer(s): [] and Dead peer(s) [2].
+[18:23:10] Alive Peer(s): [] and Dead peer(s) [101].
+[18:23:11] Alive Peer(s): [101] and Dead peer(s) [].
+[18:23:33] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[18:23:55] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[19:17:35] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[19:17:35] Alive Peer(s): [] and Dead peer(s) [101].
+[19:17:35] Alive Peer(s): [] and Dead peer(s) [1].
+[19:17:35] Alive Peer(s): [] and Dead peer(s) [3].
+[19:17:35] Alive Peer(s): [] and Dead peer(s) [2].
+[19:17:49] Alive Peer(s): [1, 3] and Dead peer(s) [].
+[19:22:40] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[19:22:40] Alive Peer(s): [] and Dead peer(s) [1].
+[19:22:40] Alive Peer(s): [] and Dead peer(s) [3].
+[19:22:40] Alive Peer(s): [] and Dead peer(s) [2].
+[19:22:40] Alive Peer(s): [] and Dead peer(s) [101].
+[19:22:57] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[19:40:04] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[19:40:04] Alive Peer(s): [] and Dead peer(s) [101].
+[19:40:04] Alive Peer(s): [] and Dead peer(s) [2].
+[19:40:04] Alive Peer(s): [] and Dead peer(s) [1].
+[19:40:04] Alive Peer(s): [] and Dead peer(s) [3].
+[19:40:11] Alive Peer(s): [1, 3] and Dead peer(s) [].
+[19:40:33] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[20:13:41] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[20:13:41] Alive Peer(s): [] and Dead peer(s) [1].
+[20:13:41] Alive Peer(s): [] and Dead peer(s) [3].
+[20:13:41] Alive Peer(s): [] and Dead peer(s) [2].
+[20:13:41] Alive Peer(s): [] and Dead peer(s) [101].
+[20:13:55] Alive Peer(s): [1, 3, 101] and Dead peer(s) [].
+[20:14:17] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[20:19:17] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
+[20:19:17] Alive Peer(s): [] and Dead peer(s) [1].
+[20:19:17] Alive Peer(s): [] and Dead peer(s) [3].
+[20:19:17] Alive Peer(s): [] and Dead peer(s) [101].
+[20:19:17] Alive Peer(s): [] and Dead peer(s) [2].
+[20:19:25] Alive Peer(s): [1, 3] and Dead peer(s) [].
+[20:19:47] Alive Peer(s): [1, 2, 3, 101] and Dead peer(s) [].
