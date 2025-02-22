@@ -127,12 +127,6 @@ PeerToPeer-Filesharing-BitTorrent/
 - Logs are saved in the `logs/` directory.
 - Debugging information is printed to the console for both tracker and peer processes.
 
-## Future Enhancements
-
-- Add support for file encryption during transmission.
-- Implement NAT traversal for peers behind firewalls.
-- Extend the system for multi-file torrenting.
-
 ## License
 
 This project is licensed under the MIT License. Feel free to use and modify as needed.
